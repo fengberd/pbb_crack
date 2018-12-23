@@ -1,0 +1,5 @@
+R:\pbb_crack\ReadKey\obj\Debug\ReadKey.csprojAssemblyReference.cache
+R:\pbb_crack\ReadKey\obj\Debug\ReadKey.MainForm.resources
+R:\pbb_crack\ReadKey\obj\Debug\ReadKey.Properties.Resources.resources
+R:\pbb_crack\ReadKey\obj\Debug\ReadKey.csproj.GenerateResource.cache
+R:\pbb_crack\ReadKey\obj\Debug\ReadKey.csproj.CoreCompileInputs.cache

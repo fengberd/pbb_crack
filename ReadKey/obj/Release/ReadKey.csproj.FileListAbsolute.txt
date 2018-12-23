@@ -1,0 +1,10 @@
+R:\pbb_crack\ReadKey\obj\Release\ReadKey.csprojAssemblyReference.cache
+R:\pbb_crack\ReadKey\obj\Release\ReadKey.MainForm.resources
+R:\pbb_crack\ReadKey\obj\Release\ReadKey.Properties.Resources.resources
+R:\pbb_crack\ReadKey\obj\Release\ReadKey.csproj.GenerateResource.cache
+R:\pbb_crack\ReadKey\obj\Release\ReadKey.csproj.CoreCompileInputs.cache
+R:\pbb_crack\ReadKey\bin\Release\ReadKey.exe.config
+R:\pbb_crack\ReadKey\bin\Release\ReadKey.exe
+R:\pbb_crack\ReadKey\bin\Release\ReadKey.pdb
+R:\pbb_crack\ReadKey\obj\Release\ReadKey.exe
+R:\pbb_crack\ReadKey\obj\Release\ReadKey.pdb
